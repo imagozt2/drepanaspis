@@ -1,0 +1,115 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <DrePanaspis>Drepanaspis</DrePanaspis>
+      <DrePanaspis_stt>Drepanaspis</DrePanaspis_stt>
+      <DrePanaspis_lower>the Drepanaspis</DrePanaspis_lower>
+      <DrePanaspis_ltt>
+         <color r="255" g="248" b="178">
+            <b>Drepanaspis</b>
+         </color>
+         <br/>
+         Click to adopt a Drepanaspis, an jawless fish.
+      </DrePanaspis_ltt>
+</entityname>
+<zoopedia_drepanaspis>
+ <entry>Drepanaspis</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+               <cell width="284">
+						<cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+							<img src="entities/units/animals/DrePanaspis/DrePanaspis_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" width="96" height="96"/>
+						</cell>	
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>						 
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="255" g="204" b="51">
+                     Extinct
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>                        
+               <cell width="128">
+                  <color r="255" g="255" b="255">Coastal<br/></color>
+                  <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+					<cell width="128">
+						<color r="255" g="255" b="255">Sea</color>
+						<br/>
+						<img src="ui/icon_maplocations/coastal_east_pacific_coast.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+					</cell>
+               <br/>
+               <cell width="284" pady="10">
+                  <color r="255" g="255" b="255">
+                  Class: Heterostraci
+                  <br/>
+                  Orde: <i>(Pteraspidomorphes)</i>
+                  <br/>
+                  Family: <i>(Psammosteidae)</i>
+                  <br/>
+                  Genus: <i>Drepanaspis</i>
+                  <br/>
+                  Species: <i>D. gemuendenensis</i>
+                  </color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Funny facts of Drepanaspis</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Drepanaspis gemuendenensis is an extinct species of primitive jawless fish from the Devonian Hunsrück lagerstätte.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>              
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">For unlock the Drepanaspis You need a fame of at least 1 star.</color>
+            <p/>Drepanaspis belongs to heterostracans means an extinct jawless fish with the anterior part of its body covered with bony plates; these fishes exist mostly in the Silurian and Devonian period. Drepanaspis were well adapted bottom dwellers, which scavenges in the mud of the seabed for its own food. The front of its body was broad and flattened, this flattened form suggests that it was nektobenthic, the term used to describe organisms that swim near the bottom of a sea or lake. The eyes of Drepanaspis were set wide on both the sides of the upturned mouth. Armored heterostracans like Drepanaspis decline after preceding Silurian and disappear in the Devonian.
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620"><color r="255" g="231" b="135">Content is from Wikipedia and other sites</color>  <p/> Made by  
+                    <color r="255" g="231" b="135">Imago</color>
+  </cell>
+ </text>
+</zoopedia_drepanaspis>
+</ZT2Strings>
